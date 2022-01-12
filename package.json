@@ -2,7 +2,7 @@
   "name": "school-remote-poweruser",
   "version": "0.0.1",
   "description": "Helps Students create a better School-Life balance while learning remotely",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "electron ."

@@ -1,0 +1,19 @@
+{
+  "name": "school-remote-poweruser",
+  "version": "0.0.1",
+  "description": "Helps Students create a better School-Life balance while learning remotely",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veggieoskibroski/school-remote-poweruser.git"
+  },
+  "author": "Veggieoskibroski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Veggieoskibroski/school-remote-poweruser/issues"
+  },
+  "homepage": "https://github.com/Veggieoskibroski/school-remote-poweruser#readme"
+}

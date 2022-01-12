@@ -4,6 +4,7 @@
   "description": "Helps Students create a better School-Life balance while learning remotely",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "electron ."
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Veggieoskibroski/school-remote-poweruser/issues"
   },
-  "homepage": "https://github.com/Veggieoskibroski/school-remote-poweruser#readme"
+  "homepage": "https://github.com/Veggieoskibroski/school-remote-poweruser#readme",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
 }
